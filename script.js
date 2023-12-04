@@ -4,7 +4,7 @@ const gif = document.querySelector(".gif");
 const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
-yesBtn.addEventListener("click", () => { question.innerHTML = "Aaaaa, I love you more";
+yesBtn.addEventListener("click", () => { question.innerHTML = "Aaaaa, I love youuu";
 gif.src =
 "https://raw.githubusercontent.com/DzarelDeveloper/Img/main/gif.webp";
 
